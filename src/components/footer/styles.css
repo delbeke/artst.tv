@@ -1,0 +1,28 @@
+.footer {
+  background-color: #333;
+  height: 60px;
+  line-height: 60px;
+  font-size: 16px;
+  margin-top: 60px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer .left {
+  float: left;
+}
+
+.footer .left a {
+  margin-left: 20px;
+}
+
+.footer .right {
+  float: right;
+}
+
+.footer .right a {
+  margin-right: 20px;
+}

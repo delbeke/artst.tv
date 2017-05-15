@@ -1,0 +1,11 @@
+div.home {
+  margin-top: 60px;
+}
+
+.home ul.up-next {
+  text-align: center;
+  font-size: 18px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0; 
+}

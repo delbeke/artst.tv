@@ -1,0 +1,39 @@
+.video {
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  position: relative;
+}
+
+.video > div {
+ position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.video .image {
+  background-repeat: no-repeat;
+  background-size: 105%;
+  background-position: center;
+}
+
+.video .title, .video .subtitle {
+  color: #fff;
+  line-height: 40px;
+  height: 40px;
+  padding-left: 40px;
+  top: initial;
+}
+
+.video .title {
+  display: none;
+  font-size: 24px;
+  bottom: 80px;
+} 
+
+.video .subtitle {
+  display: none;
+  font-size: 20px;
+  bottom: 40px;
+}
