@@ -8,7 +8,7 @@ class Jumbo extends Component {
         <div className='jumbo'>
           <div className='overlay' />
           <div className='text'>
-            We help you discover new awesome performing artists
+            DISCOVER <br />ARTISTS YOU LOVE
           </div>
         </div>
       </div>
