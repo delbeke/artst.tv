@@ -2,6 +2,7 @@
   width: 100%;
   padding-top: 56.25%; /* 16:9 Aspect Ratio */
   position: relative;
+  cursor: pointer;
 }
 
 .video > div {

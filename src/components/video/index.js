@@ -15,16 +15,14 @@ class Video extends Component {
       subTitle += ' (' + titleParts[2].trim() + ')'
     }
     return (
-      <div className='row'>
-        <div className='col-md-8 col-md-offset-2'>
-          <div className='video'>
-            <div className='image' style={style} />
-            <div className='title'>
-              {title}
-            </div>
-            <div className='subtitle'>
-              {subTitle}
-            </div>
+      <div className='col-md-8 col-md-offset-2'>
+        <div className='video'>
+          <div className='image' style={style} />
+          <div className='title'>
+            {title}
+          </div>
+          <div className='subtitle'>
+            {subTitle}
           </div>
         </div>
       </div>

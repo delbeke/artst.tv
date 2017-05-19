@@ -1,12 +1,13 @@
 import React, { Component } from 'react'
+import Title from '../../components/title'
 import './styles.css'
 
 class About extends Component {
   render () {
     return (
       <div className='about'>
-        <h2>Our Mission</h2>
-        <div className='row'>
+        <div className='row section'>
+          <Title text='Our Mession' />
           <div className='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4'>
             <p>
               artst.tv aims to a platform where everyone can discover new
@@ -19,8 +20,8 @@ class About extends Component {
             </p>
           </div>
         </div>
-        <h2>Team</h2>
-        <div className='row'>        
+        <div className='row section alt'>
+          <Title text='Team' />
           <div className='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4'>
             <p>
               What we do would never be possible without a great team of volenteers.
