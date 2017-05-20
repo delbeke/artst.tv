@@ -10,11 +10,11 @@ class Home extends Component {
       <div className='home'>
         <Jumbo />
         <div className='row section'>
-          <Title text='Latest and Gratest' />
+          <Title text='Latest and Greatest' />
           <Videos />
         </div>
         <div className='row section alt'>
-          <Title text='Comming Next' />
+          <Title text='Coming Next' />
           <ul className='up-next'>
             <li>Jadoul</li>
             <li>Liv Bastiaens</li>
