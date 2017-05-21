@@ -7,10 +7,10 @@ class About extends Component {
     return (
       <div className='about'>
         <div className='row section'>
-          <Title text='Our Mession' />
+          <Title text='Our Mission' />
           <div className='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4'>
             <p>
-              artst.tv aims to a platform where everyone can discover new
+              artst.tv aims to be a platform where everyone can discover new
               and interesting artists. We don't limit our content to
               music, but cover a wide range of perfomances like dance and poeitry.
             </p>
@@ -26,7 +26,7 @@ class About extends Component {
             <p>
               What we do would never be possible without a great team of volenteers.
             </p>
-          </div>        
+          </div>
         </div>
       </div>
     )
