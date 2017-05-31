@@ -9,7 +9,6 @@ class Header extends Component {
         <Link to='/' className='name'>ARTST.TV</Link>
         <Link to='/contact'>Contact</Link>
         <Link to='/about'>About</Link>
-        <Link to='/explore'>Explore</Link>
       </div>
     )
   }

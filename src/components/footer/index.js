@@ -10,7 +10,6 @@ class Footer extends Component {
           <Link to='/'>Home</Link>
           <Link to='/contact'>Contact</Link>
           <Link to='/about'>About</Link>
-          <Link to='/explore'>Explore</Link>
         </div>
         <div className='right'>
           <a href='https://www.youtube.com/artst.tv'>YouTube</a>

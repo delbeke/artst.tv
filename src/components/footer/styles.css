@@ -8,6 +8,12 @@
   width: 100%;
 }
 
+@media (max-width: 480px) {
+    .footer {
+        font-size:12px
+    }
+}
+
 .footer a {
   color: #fff;
   text-decoration: none;
@@ -28,3 +34,4 @@
 .footer .right a {
   margin-right: 20px;
 }
+
