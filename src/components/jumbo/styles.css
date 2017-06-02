@@ -1,9 +1,7 @@
 div.jumbo {
   position: relative;
   background-size: cover;
-  background-image: url(/images/jumbo-compressed-lo-res.jpg);
   background-position: center;
-  padding-bottom: 40%;
 }
 
 div.jumbo .overlay {
@@ -21,6 +19,7 @@ div.jumbo .text {
   font-size: 28px;
   text-align: left;
   padding: 10%;
+  white-space: pre-line;
 }
 
 @media screen and (min-width: 600px) {

@@ -1,14 +1,17 @@
 import React, { Component } from 'react'
 import './styles.css'
-import Jumbo from './components/jumbo'
 import Videos from './components/videos'
+import Jumbo from '../../components/jumbo'
 import Title from '../../components/title'
 
 class Home extends Component {
   render () {
     return (
       <div className='home'>
-        <Jumbo />
+        <Jumbo
+          text='DISCOVER\nARTISTS YOU LOVE'
+          ratio='0.4'
+          image='/images/jumbo-compressed-lo-res.jpg' />
         <div className='row section'>
           <Title text='Latest and Greatest' />
           <Videos />
