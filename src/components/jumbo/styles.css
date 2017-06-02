@@ -19,7 +19,6 @@ div.jumbo .text {
   font-size: 28px;
   text-align: left;
   padding: 10%;
-  white-space: pre-line;
 }
 
 @media screen and (min-width: 600px) {
