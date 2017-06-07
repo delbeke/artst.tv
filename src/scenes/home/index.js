@@ -11,7 +11,7 @@ class Home extends Component {
         <Jumbo
           text='DISCOVER\nARTISTS YOU LOVE'
           ratio='0.4'
-          image='/images/jumbo-compressed-lo-res.jpg' />
+          image='set:/images/home' />
         <div className='row section'>
           <Title text='Latest and Greatest' />
           <Videos />

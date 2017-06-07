@@ -1,11 +1,16 @@
 import React, { Component } from 'react'
 import Title from '../../components/title'
+import Jumbo from '../../components/jumbo'
 import './styles.css'
 
 class About extends Component {
   render () {
     return (
       <div className='about'>
+        <Jumbo
+          text='ABOUT US'
+          ratio='0.2'
+          image='set:/images/about' />
         <div className='row section'>
           <Title text='Our Mission' />
           <div className='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4'>

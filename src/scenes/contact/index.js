@@ -10,7 +10,7 @@ class Contact extends Component {
         <Jumbo
           text='GET IN TOUCH'
           ratio='0.2'
-          image='/images/contact-compressed-lo-res.jpg' />
+          image='set:/images/contact' />
         <div className='row section'>
           <Title text='An artist?' />
           <div className='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4'>
