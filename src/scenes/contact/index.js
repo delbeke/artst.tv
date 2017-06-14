@@ -20,7 +20,7 @@ class Contact extends Component {
               is free of royaltees, let us know a we arange a date.
             </p>
             <div className='email'>
-              <a href='artists@artst.tv'>artists@artst.tv</a>
+              <a href='artist@artst.tv'>artists@artst.tv</a>
             </div>
           </div>
         </div>
