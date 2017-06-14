@@ -30,6 +30,7 @@ class About extends Component {
           <div className='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4'>
             <p>
               What we do would never be possible without a great team of volenteers.
+              Below you can find a list of people that contributed to this project in some way or another.
             </p>
           </div>
         </div>

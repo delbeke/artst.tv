@@ -8,6 +8,7 @@ body {
   padding: 0;
   font-family: sans-serif;
   background-color: rgb(243, 243, 243);
+  font-family: 'Fira Sans', sans-serif !important;
 }
 
 h1, h2, h3 {
@@ -19,6 +20,10 @@ hr.title {
   border-top: 2px solid #d0d0d0;
   margin-bottom: 40px;
   margin-top: 10px;
+}
+
+p {
+  font-size: 16px;
 }
 
 a {

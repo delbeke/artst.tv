@@ -1,3 +1,7 @@
 .contact {
   margin-top: 60px;
 }
+
+.contact .email {
+  text-align: center;
+}
