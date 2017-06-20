@@ -15,13 +15,11 @@ class About extends Component {
           <Title text='Our Mission' />
           <div className='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4'>
             <p>
-              artst.tv aims to be a platform where everyone can discover new
-              and interesting artists. We don't limit our content to
-              music, but cover a wide range of perfomances like dance and poeitry.
+              artst.tv aims to be a platform where everyone can discover new and exciting artists.
+              We don't limit our content to music only, but cover a wide range of performing arts such as dance and poetry.
             </p>
             <p>
-              The content we provide has to meet high quality standards,
-              must be entertaining and authentic.
+              All our content is alike in being high quality, entertaining, and 100% authentic.
             </p>
           </div>
         </div>
@@ -29,8 +27,8 @@ class About extends Component {
           <Title text='Team' />
           <div className='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4'>
             <p>
-              What we do would never be possible without a great team of volenteers.
-              Below you can find a list of people that contributed to this project in some way or another.
+              What we do would never be possible without the support of our great team of volunteers.
+              Below is a list of people that contributed to this project in some way or another.
             </p>
           </div>
         </div>
