@@ -6,6 +6,7 @@ class Header extends Component {
   render () {
     return (
       <div className='header row'>
+        <img src='/images/logo.png' />
         <Link to='/' className='name'>ARTST.TV</Link>
         <Link to='/contact'>Contact</Link>
         <Link to='/about'>About</Link>
